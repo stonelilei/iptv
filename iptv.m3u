@@ -1,333 +1,262 @@
- #EXTM3U x-tvg-url="http://tv.lilei.asia:5678/t.xml.gz"
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="央视",CCTV-1综合 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.129:8008
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-id="2" tvg-name="CCTV2" group-title="央视",CCTV-2财经 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.60:8084
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-id="3" tvg-name="CCTV3" group-title="央视",CCTV-3综艺 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.172:8001
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-id="4" tvg-name="CCTV4" group-title="央视",CCTV-4中文国际 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.105:8092
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="央视",CCTV-5体育 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.173:8001
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="6" tvg-name="CCTV5+" group-title="央视",CCTV-5+体育赛事 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.130:8004
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-id="7" tvg-name="CCTV6" group-title="央视",CCTV-6电影 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.174:8001
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-id="8" tvg-name="CCTV7" group-title="央视",CCTV-7国防军事 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.61:8104
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-id="9" tvg-name="CCTV8" group-title="央视",CCTV-8电视剧 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.175:8001
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-id="10" tvg-name="CCTV9" group-title="央视",CCTV-9纪录 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.62:8112
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-id="11" tvg-name="CCTV10" group-title="央视",CCTV-10科教 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.63:8116
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-id="12" tvg-name="CCTV11" group-title="央视",CCTV-11戏曲 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.152:8120
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-id="13" tvg-name="CCTV12" group-title="央视",CCTV-12社会与法 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.64:8124
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-id="15" tvg-name="CCTV14" group-title="央视",CCTV-14少儿 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.65:8132
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-id="16" tvg-name="CCTV15" group-title="央视",CCTV-15音乐 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.153:8136
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-id="17" tvg-name="CCTV17" group-title="央视",CCTV-17农村农业 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.151:8144
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江钱江都市.png" group-title="地方频道",浙江钱江都市频道
-http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 group-title="地方频道",浙江经视
-http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江教育科技.png" group-title="地方频道",浙江教育科技频道
-http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 group-title="地方频道",浙江电视台影视娱乐频道
-http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
-#EXTINF:-1 group-title="地方频道",浙江6频道民生休闲频道
-http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江新闻.png" group-title="地方频道",浙江新闻频道
-http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-id="27" tvg-name="湖南卫视" group-title="卫视",湖南卫视 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.132:8012
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-id="28" tvg-name="浙江卫视" group-title="卫视",浙江卫视 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.137:8036
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-id="29" tvg-name="江苏卫视" group-title="卫视",江苏卫视 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.135:8028
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" tvg-id="30" tvg-name="北京卫视" group-title="卫视",北京卫视 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.241:8000
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" tvg-id="31" tvg-name="东方卫视" group-title="卫视",东方卫视 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.136:8032
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" tvg-id="32" tvg-name="安徽卫视" group-title="卫视",安徽卫视 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.211:8064
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" tvg-id="33" tvg-name="广东卫视" group-title="卫视",广东卫视 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.142:8048
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" tvg-id="34" tvg-name="深圳卫视" group-title="卫视",深圳卫视 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.134:8020
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="36" tvg-name="辽宁卫视" group-title="卫视",辽宁卫视 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.210:8056
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" tvg-id="38" tvg-name="山东卫视" group-title="卫视",山东卫视 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.209:8052
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" tvg-id="39" tvg-name="天津卫视" group-title="卫视",天津卫视 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.141:1234
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" tvg-id="41" tvg-name="东南卫视" group-title="卫视",东南卫视 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.156:8148
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" tvg-id="44" tvg-name="贵州卫视" group-title="卫视",贵州卫视 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.149:8076
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" tvg-id="45" tvg-name="河北卫视" group-title="卫视",河北卫视 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.148:8072
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" tvg-id="46" tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.133:8016
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" tvg-id="48" tvg-name="湖北卫视" group-title="卫视",湖北卫视 [1080p]
-http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.138:8044
+中央频道,#genre#
+CCTV1,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.129:8008
+CCTV2,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.60:8084
+CCTV3,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.172:8001
+CCTV4,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.105:8092
+CCTV5,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.173:8001
+CCTV5+,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.130:8004
+CCTV6,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.174:8001
+CCTV7,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.61:8104
+CCTV8,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.175:8001
+CCTV9,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.62:8112
+CCTV10,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.63:8116
+CCTV11,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.152:8120
+CCTV12,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.64:8124
+CCTV14,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.65:8132
+CCTV15,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.153:8136
+CCTV17,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.151:8144
+CCTV1,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.1:8000
+CCTV2,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.2:8004
+CCTV3,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.240:8008
+CCTV4,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.4:8216
+CCTV5,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.244:8016
+CCTV6,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.245:8220
+CCTV7,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.7:8024
+CCTV8,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.246:8224
+CCTV9,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.9:8032
+CCTV10,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.10:8228
+CCTV11,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.11:8040
+CCTV12,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.12:8232
+CCTV13,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.13:8048
+CCTV14,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.14:8236
+CCTV15,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.15:8052
+CCTV17,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.150:8064
+CGTN,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.16:8056
+省级卫视,#genre#
+湖南卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.132:8012
+浙江卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.137:8036
+江苏卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.135:8028
+北京卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.241:8000
+东方卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.136:8032
+安徽卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.211:8064
+广东卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.142:8048
+深圳卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.134:8020
+辽宁卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.210:8056
+山东卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.209:8052
+天津卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.141:1234
+东南卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.156:8148
+贵州卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.149:8076
+河北卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.148:8072
+黑龙江卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.133:8016
+湖北卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.138:8044
+湖南卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.18:8268
+浙江卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.19:8284
+江苏卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.20:8276
+北京卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.225:8000
+东方卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.34:8192
+安徽卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.21:8272
+广东卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.38:8132
+深圳卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.32:9244
+辽宁卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.24:8116
+旅游卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.45:8304
+山东卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.25:8148
+天津卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.23:8144
+重庆卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.35:8296
+东南卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.36:8112
+甘肃卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.49:8188
+广西卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.39:8300
+贵州卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.31:8120
+河北卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.37:8292
+黑龙江卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.28:8196
+河南卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.27:8128
+湖北卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.33:8136
+江西卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.30:8280
+吉林卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.40:8200
+内蒙古卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.43:8176
+宁夏卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.46:8124
+山西卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.42:8172
+陕西卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.41:8140
+四川卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.29:8288
+新疆卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.48:8160
+云南卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.26:8108
+青海卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.44:8184
+南方卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.161:8001
+兵团卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.144:4120
+厦门卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.143:4120
+金鹰卡通,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.51:9252
+西藏卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.47:8164
+三沙卫视,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.155:4120
+地方频道,#genre#
+浙江钱江都市频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江教育科技频道,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江电视台影视娱乐频道,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+浙江6频道民生休闲频道,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江新闻频道,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+黑龙江农业科教,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+黑龙江少儿,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
+黑龙江影视,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+黑龙江文体,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+黑龙江新闻法治,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+黑龙江都市,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+哈尔滨新闻,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
+哈尔滨生活,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
+齐齐哈尔综合,http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
+齐齐哈尔经济法治,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
+佳木斯新闻,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
+佳木斯综合,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
+大庆教育频道,http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
+鹤岗新闻综合,http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+港台频道,#genre#
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+莲花卫视,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+台视频道,rtmp://f13h.mine.nu/sat/tv071
+中视频道,rtmp://f13h.mine.nu/sat/tv091
+华视频道,rtmp://f13h.mine.nu/sat/tv111
+民视频道,rtmp://f13h.mine.nu/sat/tv051
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+海外频道,#genre#
+NBA-TV,http://1tv41.icu:8080/30065823/63154294/20073
+NHK World,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+BBC NEWS,http://1tv41.icu:8080/30065823/63154294/53757
+Boomerang,http://1tv41.icu:8080/30065823/63154294/53718
+RTE NEWS,http://1tv41.icu:8080/30065823/63154294/79108
+Discovery Channel,http://1tv41.icu:8080/30065823/63154294/53684
+Discovery History,http://1tv41.icu:8080/30065823/63154294/53694
+Discovery Science,http://1tv41.icu:8080/30065823/63154294/53695
+EuroSport 1 UK,http://1tv41.icu:8080/30065823/63154294/53713
+MUTV,http://1tv41.icu:8080/30065823/63154294/53717
+SKY NEWS,http://1tv41.icu:8080/30065823/63154294/77166
+CNBC,http://1tv41.icu:8080/30065823/63154294/9815
+CNBC World,http://1tv41.icu:8080/30065823/63154294/20860
+CNN,http://1tv41.icu:8080/30065823/63154294/1817
+CNN,http://1tv41.icu:8080/30065823/63154294/104884
+Bloomberg,http://1tv41.icu:8080/30065823/63154294/15158
+BBC America,http://1tv41.icu:8080/30065823/63154294/20194
+NBA TV,http://1tv41.icu:8080/30065823/63154294/20073
+USA | NFL,http://1tv41.icu:8080/30065823/63154294/208896
+WWE NETWORK,http://1tv41.icu:8080/30065823/63154294/11645
+ESPN NEWS,http://1tv41.icu:8080/30065823/63154294/17707
+ESPN 2,http://1tv41.icu:8080/30065823/63154294/2210
+ESPN 1 (HD),http://1tv41.icu:8080/30065823/63154294/14197
+ESPN 1 (HD),http://1tv41.icu:8080/30065823/63154294/9802
+ESPNU College Sports,http://1tv41.icu:8080/30065823/63154294/10255
+CBSN New York (D),http://1tv41.icu:8080/30065823/63154294/46754
+FOX Sports 1,http://1tv41.icu:8080/30065823/63154294/46792
+A&E (A),http://1tv41.icu:8080/30065823/63154294/2201
+ABC,http://1tv41.icu:8080/30065823/63154294/22990
+ACC Network (A),http://1tv41.icu:8080/30065823/63154294/9273
+ActionMAX (East),http://1tv41.icu:8080/30065823/63154294/21013
+CA Adult Swim (R),http://1tv41.icu:8080/30065823/63154294/11644
+Altitude Sports HD,http://1tv41.icu:8080/30065823/63154294/79545
+AMC,http://1tv41.icu:8080/30065823/63154294/18925
+American Heroes Channel,http://1tv41.icu:8080/30065823/63154294/10456
+Animal Planet,http://1tv41.icu:8080/30065823/63154294/17870
+Antenna TV,http://1tv41.icu:8080/30065823/63154294/20180
+Aspire (A),http://1tv41.icu:8080/30065823/63154294/21927
+AXS TV,http://1tv41.icu:8080/30065823/63154294/48324
+Baby First HD,http://1tv41.icu:8080/30065823/63154294/58765
+BET (East),http://1tv41.icu:8080/30065823/63154294/46703
+Bet Gospel,http://1tv41.icu:8080/30065823/63154294/66080
+BET (East) ,http://1tv41.icu:8080/30065823/63154294/13702
+BET SOUL,http://1tv41.icu:8080/30065823/63154294/21844
+Big Ten HD,http://1tv41.icu:8080/30065823/63154294/9828
+Boomerang,http://1tv41.icu:8080/30065823/63154294/14741
+Bounce XL,http://1tv41.icu:8080/30065823/63154294/48323
+Bravo (East)  ,http://1tv41.icu:8080/30065823/63154294/20859
+BUZZR (STV),http://1tv41.icu:8080/30065823/63154294/21896
+Cartoon Network,http://1tv41.icu:8080/30065823/63154294/46708
+CBS Sports Network HD,http://1tv41.icu:8080/30065823/63154294/10454
+CBS News,http://1tv41.icu:8080/30065823/63154294/21259
+Cinemax (East),http://1tv41.icu:8080/30065823/63154294/13380
+CMT,http://1tv41.icu:8080/30065823/63154294/46706
+CMT HD,http://1tv41.icu:8080/30065823/63154294/10476
+Comedy Central (East),http://1tv41.icu:8080/30065823/63154294/7466
+Comet (S),http://1tv41.icu:8080/30065823/63154294/66244
+Cooking Channel,http://1tv41.icu:8080/30065823/63154294/9229
+Cozi,http://1tv41.icu:8080/30065823/63154294/11868
+Decades,http://1tv41.icu:8080/30065823/63154294/20189
+Destination America (A),http://1tv41.icu:8080/30065823/63154294/14222
+Discovery Channel (East),http://1tv41.icu:8080/30065823/63154294/46720
+Discovery Channel East,http://1tv41.icu:8080/30065823/63154294/9811
+DISCOVERY FAMILY,http://1tv41.icu:8080/30065823/63154294/10538
+Discovery Life HD,http://1tv41.icu:8080/30065823/63154294/9861
+CA Discovery Velocity HD,http://1tv41.icu:8080/30065823/63154294/46212
+DIY Network,http://1tv41.icu:8080/30065823/63154294/10503
+DOGTV,http://1tv41.icu:8080/30065823/63154294/53539
+E! Entertainment Television East,http://1tv41.icu:8080/30065823/63154294/11651
+EPIX (East),http://1tv41.icu:8080/30065823/63154294/13214
+Epix Drive IN (S),http://1tv41.icu:8080/30065823/63154294/14193
+Epix Hits,http://1tv41.icu:8080/30065823/63154294/12744
+EPIX2 (East),http://1tv41.icu:8080/30065823/63154294/12730
+ESPN 2,http://1tv41.icu:8080/30065823/63154294/2210
+ESPN 1 (HD),http://1tv41.icu:8080/30065823/63154294/14197
+ESPN 1 (HD),http://1tv41.icu:8080/30065823/63154294/9802
+ESPNU College Sports,http://1tv41.icu:8080/30065823/63154294/10255
+Food Network HD,http://1tv41.icu:8080/30065823/63154294/7323
+Fox Business Network,http://1tv41.icu:8080/30065823/63154294/17639
+Fox News ,http://1tv41.icu:8080/30065823/63154294/1818
+Fox Sports 1,http://1tv41.icu:8080/30065823/63154294/1846
+Fox Sports 2 (A),http://1tv41.icu:8080/30065823/63154294/1847
+Bally Sports North (A),http://1tv41.icu:8080/30065823/63154294/20928
+Bally Sports Carolinas (A),http://1tv41.icu:8080/30065823/63154294/20929
+Bally Sports South,http://1tv41.icu:8080/30065823/63154294/20931
+FanDuel Sports South (A),http://1tv41.icu:8080/30065823/63154294/20922
+Freeform East,http://1tv41.icu:8080/30065823/63154294/13370
+Fuse,http://1tv41.icu:8080/30065823/63154294/46701
+FX East,http://1tv41.icu:8080/30065823/63154294/46690
+FXM,http://1tv41.icu:8080/30065823/63154294/10260
+FXX (East),http://1tv41.icu:8080/30065823/63154294/46699
+FYI,http://1tv41.icu:8080/30065823/63154294/9240
+Latin Galavision,http://1tv41.icu:8080/30065823/63154294/58770
+GetTV,http://1tv41.icu:8080/30065823/63154294/18366
+Great American Country,http://1tv41.icu:8080/30065823/63154294/17640
+Grit TV,http://1tv41.icu:8080/30065823/63154294/20861
+Hallmark Channel,http://1tv41.icu:8080/30065823/63154294/46719
+Hallmark Drama,http://1tv41.icu:8080/30065823/63154294/9307
+Hallmark Movies & Mysteries,http://1tv41.icu:8080/30065823/63154294/10289
+HBO East HD ,http://1tv41.icu:8080/30065823/63154294/46713
+HBO,http://1tv41.icu:8080/30065823/63154294/9264
+HBO 2 (A),http://1tv41.icu:8080/30065823/63154294/9816
+HBO Comedy (East),http://1tv41.icu:8080/30065823/63154294/17773
+HBO Family (East),http://1tv41.icu:8080/30065823/63154294/17772
+HBO SIGNATURE (East),http://1tv41.icu:8080/30065823/63154294/9266
+HBO Zone (East),http://1tv41.icu:8080/30065823/63154294/9265
+HDNET MOVIES,http://1tv41.icu:8080/30065823/63154294/16265
+Heroes & Icons (Los Angeles),http://1tv41.icu:8080/30065823/63154294/66087
+HGTV (East),http://1tv41.icu:8080/30065823/63154294/46717
+HISTORY,http://1tv41.icu:8080/30065823/63154294/46724
+History Channel,http://1tv41.icu:8080/30065823/63154294/15017
+半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+伊朗新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+Arirang 阿里郎,http://php.jdshipin.com:8880/xsj.php?id=arirang
+tvN 꽃보다할배,https://d3kirm9c53tl5m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-us244sbpf51mr-ssai-prd/1e735686_e190_4801_944d_651719fca85a/hls/playlist.m3u8
+tvN 나의 아저씨,https://dp9vqmqe1b62.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqup1fpzurgqx-ssai-prd/dc942d76_e776_4c34_8e0c_f09008912455/hls/playlist.m3u8
+tvN 도깨비,https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
+tvN 라켓보이즈,https://dcqm3yrmhgffm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kl2somy43z7lq-ssai-prd/afb160a1_1669_46f6_aba5_e55f48c7b2ca/hls/playlist.m3u8
+tvN 마인,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8
+tvN 멜랑꼴리아,https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8
+tvN 철인왕후,https://dmnsygceaez9z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kugwkm0rtsyfv-ssai-prd/89a2b732_7d4e_4098_9b82_f8e829ab07f0/hls/playlist.m3u8
+tvN THE K2,https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8
+KBS 1,http://mytv.dothome.co.kr/ch/public/1.php
+KBS 2,http://mytv.dothome.co.kr/ch/public/3.php
+BBS 불교 방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="香港频道",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="香港频道",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="香港频道",凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="香港频道",无线新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠台.png" group-title="香港频道",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct
-#EXTINF:-1 ,翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-#EXTINF:-1 ,翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1 ,翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-#EXTINF:-1 ,TVBJ1
-http://php.jdshipin.com/TVOD/iptv.php?id=j1
-#EXTINF:-1 ,TVBJ1
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
-#EXTINF:-1 ,华丽翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:-1 ,华丽翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-#EXTINF:-1 ,TVB星河
-http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 ,TVB星河
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
-#EXTINF:-1 ,TVB星河
-http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
-#EXTINF:-1 ,明珠台
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-#EXTINF:-1 ,明珠台
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-#EXTINF:-1 ,TVB生活台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
-#EXTINF:-1 ,香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 ,TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 ,TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 ,TVB亚洲武侠
-http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 ,TVB娱乐新闻台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 ,VIUTV
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-#EXTINF:-1 ,VIUTV
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-#EXTINF:-1 ,Viu剧集台
-http://php.jdshipin.com/TVOD/iptv.php?id=viujj
-#EXTINF:-1 ,Now星影台
-http://php.jdshipin.com/TVOD/iptv.php?id=xyt
-#EXTINF:-1 ,HOY TV
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 ,HOY TV
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-#EXTINF:-1 ,HOY TV
-https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 ,RTHK31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-#EXTINF:-1 ,RTHK31
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 ,RTHK32
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-#EXTINF:-1 ,RTHK32
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 ,RTHK33
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-#EXTINF:-1 ,千禧经典台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 ,Astro AOD
-http://php.jdshipin.com/TVOD/iptv.php?id=aod
-#EXTINF:-1 ,美亚电影台
-http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-#EXTINF:-1 ,星光综合台
-http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-#EXTINF:-1 ,澳视澳门
-http://php.jdshipin.com/TVOD/iptv.php?id=asam
-#EXTINF:-1 ,澳视澳门
-https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 ,澳视卫星
-http://php.jdshipin.com/TVOD/iptv.php?id=as
-#EXTINF:-1 ,澳视卫星
-https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 ,澳视资讯
-http://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 ,澳视体育
-http://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 ,澳视综艺
-http://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 ,澳门莲花
-http://epg.112114.xyz/lotus
-#EXTINF:-1 ,澳门莲花
-http://php.jdshipin.com/amlh.php
-#EXTINF:-1 ,澳亚卫视
-https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-#EXTINF:-1 ,星空卫视
-http://php.jdshipin.com/TVOD/iptv.php?id=xkws
-#EXTINF:-1 ,Channel [V]
-http://php.jdshipin.com/TVOD/iptv.php?id=v
-#EXTINF:-1 ,精彩影视
-http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000320630
-#EXTINF:-1 ,爱喜剧
-http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000010630
-#EXTINF:-1 ,爱科幻
-http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000020630
-#EXTINF:-1 ,爱院线
-http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000030630
-#EXTINF:-1 ,爱浪漫
-http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000040630
-#EXTINF:-1 ,爱悬疑
-http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000050630
-#EXTINF:-1 ,爱经典
-http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000060630
-#EXTINF:-1 ,爱谍战
-http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000070630
-#EXTINF:-1 ,爱都市
-http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000080630
-#EXTINF:-1 ,爱青春
-http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000100630
-#EXTINF:-1 ,爱历史
-http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000150630
-#EXTINF:-1 ,爱科学
-http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000160630
-#EXTINF:-1 ,爱幼教
-http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000180630
-#EXTINF:-1 ,爱玩具
-http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000220630
-#EXTINF:-1 ,爱电竞
-http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000230630
-#EXTINF:-1 ,爱赛车
-http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000240630
-#EXTINF:-1 ,爱旅行
-http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000250630
-#EXTINF:-1 ,爱怀旧
-http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000260630
-#EXTINF:-1 ,爱奇谈
-http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000270630
-#EXTINF:-1 ,爱动漫
-http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000280630
-#EXTINF:-1 ,爱体育
-http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000290630
-#EXTINF:-1 ,华语影院
-http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288005
-#EXTINF:-1 ,星光影院
-http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288013
-#EXTINF:-1 ,全球大片
-http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288009
-#EXTINF:-1 ,热门剧场
-http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288010
-#EXTINF:-1 ,谍战剧场
-http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288004
-#EXTINF:-1 ,青春动漫
-http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288008
-#EXTINF:-1 ,宝宝动画
-http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288002
-#EXTINF:-1 ,戏曲精选
-http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288012
-#EXTINF:-1 ,热门综艺
-http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288011
-#EXTINF:-1 ,超级体育
-http://php.jdshipin.com/bestv.php?id=qcsj8m/8000000
-#EXTINF:-1 ,健康养生
-http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288006
-#EXTINF:-1 ,百变课堂
-http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288001
-#EXTINF:-1 ,看天下精选
-http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288007
-#EXTINF:-1 ,电竞天堂
-http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000288003
-#EXTINF:-1 ,电子竞技
-http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000004000000015
-#EXTINF:-1 ,高清娱乐
-http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000004000000013
-#EXTINF:-1 ,漫游世界
-http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000004000000017
-#EXTINF:-1 ,国学
-http://php.jdshipin.com/hntv.php?id=gxpd
-#EXTINF:-1 ,国学
-http://php.jdshipin.com/cqyx.php?id=guoxue
-#EXTINF:-1 ,老故事
-http://php.jdshipin.com/cqyx.php?id=gushi
-#EXTINF:-1 ,发现之旅
-http://php.jdshipin.com/cqyx.php?id=faxian
-#EXTINF:-1 ,中学生
-http://php.jdshipin.com/cqyx.php?id=qicai
-#EXTINF:-1 ,中华美食
-http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000003000000052
-#EXTINF:-1 ,家庭理财
-http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000064
-#EXTINF:-1 ,财富天下
-http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000002000000069
-#EXTINF:-1 ,证券服务
-http://php.jdshipin.com/cqyx.php?id=jiazheng
-#EXTINF:-1 ,环球旅游
-http://php.jdshipin.com/cqyx.php?id=huanqiulvyou
-#EXTINF:-1 ,摄影
-http://php.jdshipin.com/cqyx.php?id=sheying
-#EXTINF:-1 ,天元围棋
-http://php.jdshipin.com/cqyx.php?id=weiqi
-#EXTINF:-1 ,书画
-http://php.jdshipin.com/cqyx.php?id=shuhua
-#EXTINF:-1 ,先锋乒羽
-http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=4886720949268374180
-#EXTINF:-1 ,车迷
-http://php.jdshipin.com/cqyx.php?id=doxtv
-#EXTINF:-1 ,优漫卡通
-http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010118
-#EXTINF:-1 ,优漫卡通
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225656
-#EXTINF:-1 ,新动漫
-http://php.jdshipin.com/cqyx.php?id=dongman
-#EXTINF:-1 ,优优宝贝
-http://php.jdshipin.com/cqyx.php?id=youxi
-#EXTINF:-1 ,四海钓鱼
-http://php.jdshipin.com/cqyx.php?id=diaoyu
-#EXTINF:-1 ,百姓健康
-https://liveplay.xiaoeknow.com/live/5060_pyBeyjJ4RjcfhK7T.m3u8
-#EXTINF:-1 ,名师公开课
-http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000004000000016
-#EXTINF:-1 ,生态环境
-http://php.jdshipin.com/cqyx.php?id=shengtai
-#EXTINF:-1 ,收藏天下
-http://php.jdshipin.com/cqyx.php?id=soucang
-#EXTINF:-1 ,北京IPTV4K
-http://php.jdshipin.com/TVOD/iptv.php?id=bj4k
-#EXTINF:-1 ,广东4K超高清
-http://php.jdshipin.com/TVOD/iptv.php?id=gd4k
-#EXTINF:-1 ,广州南国都市4K
-http://php.jdshipin.com/TVOD/iptv.php?id=ngds4k
-#EXTINF:-1 ,绚影4K
-http://php.jdshipin.com/TVOD/iptv.php?id=xy4k
-#EXTINF:-1 ,湖南IPTV4K
-http://php.jdshipin.com/TVOD/iptv.php?id=hn4k
-#EXTINF:-1 ,云南4K
-http://php.jdshipin.com/TVOD/iptv.php?id=yn4k
-#EXTINF:-1 ,百视通4K测试
-http://php.jdshipin.com/TVOD/iptv.php?id=bst4k
-#EXTINF:-1 ,百视通4K儿童
-http://php.jdshipin.com/TVOD/iptv.php?id=bst4ket
-#EXTINF:-1 ,百视通4K电影
-http://php.jdshipin.com/TVOD/iptv.php?id=bst4kdy
-#EXTINF:-1 ,百视通4K纪实
-http://php.jdshipin.com/TVOD/iptv.php?id=bst4kjs
-
-
-
+🎧音乐直播,#genre#
+周杰伦专场,http://lxajh.top/tv/douyu.php?id=7537296
+陈奕迅专场,http://113.45.240.129:35455/huya/21241843
+五月天专场,http://113.45.240.129:35455/huya/21241841
+歌单专场,http://113.45.240.129:35455/huya/21241839
+吉他专场,http://113.45.240.129:35455/huya/21241765
