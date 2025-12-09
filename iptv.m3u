@@ -305,7 +305,7 @@ CGTN法语,http://124.129.234.252:4022/rtp/239.253.254.183:8000
 CGTN阿拉伯语,http://124.129.234.252:4022/rtp/239.253.254.184:8000
 CGTN俄语,http://124.129.234.252:4022/rtp/239.253.254.185:8000
 
-🌟移动V6专用🌟,#genre#
+🌟IPV6网络专用🌟,#genre#
 CCTV1,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=m
 CCTV2,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031101/1.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=m
 CCTV3,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000004000008883/1.m3u8?channel-id=bestzb&Contentid=5000000004000008883&livemode=1&stbId=m
@@ -475,7 +475,7 @@ CCTV16,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000008000023254/1.m3
 黄花城水长城03,https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
 黄龙,https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
 
-香港频道频道,#genre#
+香港频道,#genre#
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
@@ -669,4 +669,5 @@ ELTA生活英語台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn20
 龍華經典台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn21
 台灣戲劇台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn22
 寰宇財經台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
+
 
