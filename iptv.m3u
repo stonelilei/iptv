@@ -100,6 +100,7 @@ BesTV-3,http://iptv.lilei.life:5140/rtp/233.50.200.185:5140
 衢州新闻综合,http://iptv.lilei.life:5140/rtp/233.50.202.11:5140
 衢州公共,http://iptv.lilei.life:5140/rtp/233.50.202.12:5140
 地方频道,#genre#
+国家地理,http://iptv.huuc.edu.cn/hls/natlgeo.m3u8
 晋江电视台,http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
 福州新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
@@ -120,6 +121,22 @@ BesTV-3,http://iptv.lilei.life:5140/rtp/233.50.200.185:5140
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 广州法治,http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+CCTV-1,https://www.wmviv.com/iptv/bc2t.php?id=cctv1#https://migu.188766.xyz/?migutoken=2b9e95d9fcde54b8b33d38b1a07054c5&id=CCTV1&type=yy
+CCTV-2,https://www.wmviv.com/iptv/bc2t.php?id=cctv2#https://migu.188766.xyz/?migutoken=d0c183bcc6b9d7f5850ba45a256dcae8&id=CCTV2&type=yy
+CCTV-3,https://www.wmviv.com/iptv/bc2t.php?id=cctv3#https://migu.188766.xyz/?migutoken=2b640c4963584613296f2df469b2f2ad&id=CCTV3&type=yy
+CCTV-4,https://www.wmviv.com/iptv/bc2t.php?id=cctv4#https://migu.188766.xyz/?migutoken=1285df0e0a705ebd8094756c013ccd87&id=CCTV4&type=yy
+CCTV-5,https://www.wmviv.com/iptv/bc2t.php?id=cctv5#https://migu.188766.xyz/?migutoken=d8662ffffa59240b9787c0e672c9563b&id=CCTV5&type=yy
+CCTV-6https://www.wmviv.com/iptv/bc2t.php?id=cctv6#https://migu.188766.xyz/?migutoken=1e397a358a277946239ac121928f89bf&id=CCTV6&type=yy
+CCTV-7,https://www.wmviv.com/iptv/bc2t.php?id=cctv7#https://migu.188766.xyz/?migutoken=c6a2d7f14b40c3d9422a191da9285e58&id=CCTV7&type=yy
+CCTV-8,https://www.wmviv.com/iptv/bc2t.php?id=cctv8#https://migu.188766.xyz/?migutoken=613237925c5758abef5bfbeae4811d97&id=CCTV8&type=yy
+CCTV-9,https://www.wmviv.com/iptv/bc2t.php?id=cctv9#https://migu.188766.xyz/?migutoken=44d55505fd2539b4c90620eec7c72baa&id=CCTV9&type=yy
+CCTV-10,https://www.wmviv.com/iptv/bc2t.php?id=cctv10#https://migu.188766.xyz/?migutoken=5f46fa6ad6d30e232d4e9b5e72b283e8&id=CCTV10&type=yy
+CCTV-11,https://www.wmviv.com/iptv/bc2t.php?id=cctv11#https://migu.188766.xyz/?migutoken=7beabf3f47f2045fbf2ad78e4a537de7&id=CCTV11&type=yy
+CCTV-12,https://www.wmviv.com/iptv/bc2t.php?id=cctv12#https://migu.188766.xyz/?migutoken=c2ec3a9d2c2461c8ad2258ee41f0f965&id=CCTV12&type=yy
+CCTV-13,https://www.wmviv.com/iptv/bc2t.php?id=cctv13#https://migu.188766.xyz/?migutoken=d5a0b352a6826871d456574006816b50&id=CCTV13&type=yy
+CCTV-14,https://www.wmviv.com/iptv/bc2t.php?id=cctv14#https://migu.188766.xyz/?migutoken=92dc0aa97c285fc3c3b84d4c80ef2488&id=CCTV14&type=yy
+CCTV-15,https://www.wmviv.com/iptv/bc2t.php?id=cctv15#https://migu.188766.xyz/?migutoken=0e691d6975567be0eff055cacb4402cb&id=CCTV15&type=yy
+
 
 
 
